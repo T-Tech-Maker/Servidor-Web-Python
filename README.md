@@ -1,7 +1,3 @@
-Com certeza\! Transformei os passos que você forneceu em um arquivo **README** claro e formatado, ideal para documentar seu projeto de Servidor Web.
-
------
-
 # 🚀 Servidor Web Simples em Python
 
 Este projeto implementa um servidor Web básico capaz de lidar com uma única requisição HTTP GET, retornando o arquivo solicitado ou uma resposta **`404 Not Found`** se o arquivo não existir.
