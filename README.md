@@ -6,7 +6,7 @@ Este projeto implementa um servidor Web básico capaz de lidar com uma única re
 
   * **Python:** É necessário ter o Python instalado na sua máquina (versão 3.x recomendada).
 
-## 🛠️ Como Rodar o Servidor
+##  Como Rodar o Servidor
 
 Siga os passos abaixo para configurar e executar seu servidor Web.
 
