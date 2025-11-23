@@ -10,33 +10,7 @@ Este projeto implementa um servidor Web básico capaz de lidar com uma única re
 
 Siga os passos abaixo para configurar e executar seu servidor Web.
 
-### 1\. Configuração dos Arquivos
-
-Crie uma pasta para o projeto e, dentro dela, crie os seguintes arquivos:
-
-#### A. Servidor Python
-
-1.  Crie um arquivo chamado `webserver.py`.
-2.  Cole dentro dele o código completo do servidor Python.
-
-#### B. Arquivo de Teste HTML
-
-O servidor precisa de um arquivo de exemplo para retornar quando for acessado.
-
-1.  Crie um arquivo chamado **`HelloWorld.html`** **no mesmo diretório** do `webserver.py`.
-2.  Adicione o seguinte conteúdo HTML simples:
-
-<!-- end list -->
-
-```html
-<html>
-<body>
-    <h1>Hello, World!</h1>
-</body>
-</html>
-```
-
-### 2\. Executar o Servidor
+### 1\. Como Executar o Servidor
 
 1.  **Abra o Terminal/Prompt de Comando** e navegue até o diretório onde você salvou os arquivos.
 
@@ -52,7 +26,7 @@ O servidor precisa de um arquivo de exemplo para retornar quando for acessado.
     Ready to serve...
     ```
 
-### 3\. Testar a Conexão no Navegador
+### 2\. Testar a Conexão no Navegador
 
 Enquanto o servidor estiver em execução, abra seu navegador de preferência para enviar requisições.
 
