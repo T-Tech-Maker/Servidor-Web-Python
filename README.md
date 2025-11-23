@@ -1,8 +1,8 @@
-# 🚀 Servidor Web Simples em Python
+#  Servidor Web Simples em Python
 
 Este projeto implementa um servidor Web básico capaz de lidar com uma única requisição HTTP GET, retornando o arquivo solicitado ou uma resposta **`404 Not Found`** se o arquivo não existir.
 
-## ⚙️ Pré-requisitos
+##  Pré-requisitos
 
   * **Python:** É necessário ter o Python instalado na sua máquina (versão 3.x recomendada).
 
@@ -81,4 +81,4 @@ http://127.0.0.1:6789/naoexiste.html
 
 -----
 
-> ⚠️ **Nota:** Se a porta `6789` já estiver em uso por outro serviço Web em sua máquina, você deverá alterar o número da porta no seu script `webserver.py` e usá-la no endereço de acesso.
+>  **Nota:** Se a porta `6789` já estiver em uso por outro serviço Web em sua máquina, você deverá alterar o número da porta no seu script `webserver.py` e usá-la no endereço de acesso.
